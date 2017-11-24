@@ -9,7 +9,8 @@ url:               "https://lestariastri.github.io"
 twitter_username:  infoHendri
 github_username:   lestariastri
 facebook_username: itsastrilestariworld
-
+#diqus
+comments: true
 # Build settings
 markdown:          kramdown
 paginate:          5
